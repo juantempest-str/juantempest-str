@@ -12,7 +12,7 @@ Sou um desenvolvedor focado em construir soluções práticas, integrações de 
   * Persistência de dados e modelagem de tabelas relacionais
 
 ### 🚀 Situação Atual
-* 🔭 Atualmente consolidando fundamentos de Engenharia de Software e versionamento de código.
+* 🔭 Atualmente consolidando fundamentos de Análise e Desenvolvimento de Sistemas, com extensão em Cybersegurança e versionamento de código.
 * 🌱 Expandindo conhecimentos em arquitetura de dados e automação de processos.
 * 💼 Disponível para projetos de integração e desenvolvimento em plataformas de trabalho autônomo.
 
